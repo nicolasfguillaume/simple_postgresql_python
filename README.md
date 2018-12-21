@@ -15,4 +15,6 @@ Usage:
 Connect Google Data Studio to the PostgreSQL database:  
 https://data36.com/connect-google-data-studio-postgresql/
 
+Example of Dashboard:  
+
 ![alt text](https://www.benlcollins.com/wp-content/uploads/2016/07/mobile_dashboard.gif)
